@@ -48,6 +48,9 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CamController.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\ShipController.cs" />
+     <Compile Include="Assets\Scripts\ShipShooter.cs" />
+     <Compile Include="Assets\shotHandler.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
