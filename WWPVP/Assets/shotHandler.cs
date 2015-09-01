@@ -14,7 +14,7 @@ public class shotHandler : MonoBehaviour {
 		{
 			Physics.IgnoreLayerCollision(8, 8, true);
 		}
-
+		GameObject.Destroy (gameObject);
 	}
 
 	// Update is called once per frame

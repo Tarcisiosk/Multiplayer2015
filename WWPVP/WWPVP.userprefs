@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShipShooter.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../tank-city/Tank City/Assets/Scripts/Muro_Nav.cs">
     <Files>
-      <File FileName="Assets/Scripts/ShipShooter.cs" Line="4" Column="43" />
-      <File FileName="Assets/Scripts/ShipController.cs" Line="37" Column="90" />
+      <File FileName="../../tank-city/Tank City/Assets/Scripts/Muro_Nav.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

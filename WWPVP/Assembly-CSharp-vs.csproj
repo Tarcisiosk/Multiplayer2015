@@ -46,10 +46,27 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Controller Tester\Scripts\DetectUnknownControllerMappings.cs" />
+     <Compile Include="Assets\LeanTouch\Examples\SimpleDrag.cs" />
+     <Compile Include="Assets\LeanTouch\Examples\SimpleInfo.cs" />
+     <Compile Include="Assets\LeanTouch\Examples\SimpleMove.cs" />
+     <Compile Include="Assets\LeanTouch\Examples\SimpleOrthographicZoom.cs" />
+     <Compile Include="Assets\LeanTouch\Examples\SimpleRotateScale.cs" />
+     <Compile Include="Assets\LeanTouch\Examples\SimpleRotateScaleRelative.cs" />
+     <Compile Include="Assets\LeanTouch\Examples\SimpleSnapshots.cs" />
+     <Compile Include="Assets\LeanTouch\Examples\SimpleSplitScreen.cs" />
+     <Compile Include="Assets\LeanTouch\Examples\SimpleSwipe.cs" />
+     <Compile Include="Assets\LeanTouch\Examples\SimpleSwipeDirection.cs" />
+     <Compile Include="Assets\LeanTouch\Examples\SimpleTap.cs" />
+     <Compile Include="Assets\LeanTouch\Examples\SimpleZoom.cs" />
+     <Compile Include="Assets\LeanTouch\Scripts\LeanFinger.cs" />
+     <Compile Include="Assets\LeanTouch\Scripts\LeanTouch.cs" />
      <Compile Include="Assets\Scripts\CamController.cs" />
+     <Compile Include="Assets\Scripts\InimigoController.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\ShipController.cs" />
      <Compile Include="Assets\Scripts\ShipShooter.cs" />
+     <Compile Include="Assets\Scripts\spaw.cs" />
      <Compile Include="Assets\shotHandler.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
